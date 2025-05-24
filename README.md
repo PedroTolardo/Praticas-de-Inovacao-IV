@@ -1,5 +1,5 @@
 # Praticas-de-Inovacao-IV
-O presente repositório disponibiliza os códigos necessários para a realização da inferência de objetos, bem como para a comunicação entre os dispositivos, permitindo a abertura e o fechamento do gaveteiro inteligente.
+O presente repositório disponibiliza os códigos necessários para a realização da inferência de objetos (ESP32-CAM), bem como para a comunicação entre os dispositivos (ESP32-S3), permitindo a abertura e o fechamento do gaveteiro inteligente.
 
 Integrantes:
 
